@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - **Version Control**:  
   - Git | GitHub | GitLab
 - **Other**:  
-  - Docker
+  - Docker | ESLint
 
 ## 🚀 My Projects
 

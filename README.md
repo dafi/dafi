@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🚀 My Projects
 
+- [**VisualDiffer**](https://github.com/visualdiffer/visualdiffer) - macOS application designed to visually compare folders and files .
 - [**MyLinks**](https://github.com/dafi/mylinks) - a dashboard of web links, a bit like browser bookmarks but shown on a single page.
 - [**ESLint rules**](https://github.com/dafi/eslint-config-dafi) - The strict rules applied to my code.
 - [**PhotoShelf**](https://github.com/dafi/photoshelf) - A tumblr client for Android that escaped my control that does many things especially on blogs that publish images
@@ -31,6 +32,7 @@ Feel free to check out my repositories to see my work in more detail!
 
 - Exploring **Rust** for system-level programming and high-performance applications.
 - Improving my **React** skills for faster application both on client and server side.
+- In a constant swinging love-hate relationship with **Swift**
 
 ## 📫 How to Reach Me
 

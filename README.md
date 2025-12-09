@@ -1,6 +1,11 @@
 # Hi there, I'm Davide 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating web and mobile applications. My main focus is on building modern and scalable solutions using **TypeScript**, **React**, **JavaScript**, and **Android** development. I'm also proficient in **Kotlin**, **Rust**, and **Ruby**. I’m always exploring new technologies and improving my craft.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating web and mobile applications. My main focus is on building modern and scalable solutions using **TypeScript**, **React**, **JavaScript**, and **Android** development. I'm also proficient in **Kotlin**, **Rust**, and **Ruby**.
+
+Last but not least in 2010 I wrote VisualDiffer in **Objective-C** (language I love) and in 2025 I rewrote it in **Swift** (language I love it, no I hate it, no I love it, no I hate it...)
+
+I’m always exploring new technologies and improving my craft.
+
 
 ## 🛠️ Technologies & Tools
 
@@ -8,6 +13,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   - React | TypeScript | JavaScript | Tailwind CSS
 - **Mobile**:  
   - Android | Kotlin | Swift
+- **Native**:
+  - macOS | Objective-C | Swit
 - **Backend**:  
   - Node.js | Express | Ruby on Rails
 - **Languages**:  

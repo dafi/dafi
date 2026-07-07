@@ -1,6 +1,6 @@
 # Hi there, I'm Davide 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating web and mobile applications. My main focus is on building modern and scalable solutions using **TypeScript**, **React**, **JavaScript**, and **Android** development. I'm also proficient in **Kotlin**, **Rust**, and **Ruby**.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating web, mobile, and desktop applications. My main focus is on building modern and scalable solutions across **TypeScript**/**React**, **Android**/**Kotlin**, **Swift**/**macOS**, and **PHP**/**Laravel** backends. I'm also proficient in **Rust** and **Ruby**.
 
 Last but not least in 2010 I wrote VisualDiffer in **Objective-C** (language I love) and in 2025 I rewrote it in **Swift** (language I love it, no I hate it, no I love it, no I hate it...)
 
@@ -14,11 +14,11 @@ I’m always exploring new technologies and improving my craft.
 - **Mobile**:  
   - Android | Kotlin | Swift
 - **Native**:
-  - macOS | Objective-C | Swit
+  - macOS | Objective-C | Swift
 - **Backend**:  
-  - Node.js | Express | Ruby on Rails
+  - Node.js | Express | PHP | Laravel
 - **Languages**:  
-  - TypeScript | JavaScript | Kotlin | Rust | Ruby
+  - TypeScript | JavaScript | Kotlin | Swift | PHP | Rust | Ruby
 - **Databases**:  
   - PostgreSQL | MongoDB | Firebase
 - **Version Control**:  
@@ -28,21 +28,21 @@ I’m always exploring new technologies and improving my craft.
 
 ## 🚀 My Projects
 
-- [**VisualDiffer**](https://github.com/visualdiffer/visualdiffer) - macOS application designed to visually compare folders and files .
+- [**VisualDiffer**](https://github.com/visualdiffer/visualdiffer) - macOS application designed to visually compare folders and files.
+- [**skills-first-aid**](https://github.com/dafi/skills-first-aid) - A collection of AI skills for developers — quick fixes and productivity boosters.
 - [**MyLinks**](https://github.com/dafi/mylinks) - a dashboard of web links, a bit like browser bookmarks but shown on a single page.
-- [**ESLint rules**](https://github.com/dafi/eslint-config-dafi) - The strict rules applied to my code.
-- [**PhotoShelf**](https://github.com/dafi/photoshelf) - A tumblr client for Android that escaped my control that does many things especially on blogs that publish images
 
 Feel free to check out my repositories to see my work in more detail!
 
 ## 🌱 Currently Learning
 
-- Exploring **Rust** for system-level programming and high-performance applications.
-- Improving my **React** skills for faster application both on client and server side.
-- In a constant swinging love-hate relationship with **Swift**
+- Building **AI skills and tooling** to speed up everyday development.
+- Sharpening my **Kotlin**/**Android** and **JetBrains plugin** development.
+- In a constant swinging love-hate relationship with **Swift** while evolving **VisualDiffer**.
 
 ## 📫 How to Reach Me
 
+- 📍 Sicily, Italy
 - X: [@dafi](https://x.com/dafi)
 
 ---

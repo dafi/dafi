@@ -5,8 +5,7 @@ macOS / Android / Web developer, building modern and scalable apps.
 ```
 
 I like creating web, mobile, and desktop applications. My focus is on
-**TypeScript**/**React**, **Android**/**Kotlin**, **Swift**/**macOS**, and
-**PHP**/**Laravel** backends. I'm also proficient in **Rust** and **Ruby**.
+**TypeScript**/**React**, **Android**/**Kotlin**, and **Swift**/**macOS**. I'm also proficient in **Rust** and **Ruby**.
 
 In 2010 I wrote **VisualDiffer** in **Objective-C** (a language I love), and in
 2025 I rewrote it in **Swift** (a language I love it, no I hate it, no I love
